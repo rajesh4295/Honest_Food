@@ -1,12 +1,12 @@
 # Project
 
-Node JS server and React JS app for taking input and suggesting store based on KML data.
+Node JS app for taking input address and suggesting store based on KML data.
 
 # Setting up the project
 
  - HONEST_FOOD (Node Server)
-npm install
-npm start
+ - npm install
+ - npm start
 
 
 # Running the project
