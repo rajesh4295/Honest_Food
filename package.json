@@ -1,0 +1,21 @@
+{
+  "name": "Honest_Food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e coffee,js,ejs node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rajesh_Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "geojson-geometries-lookup": "^0.3.0",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0"
+  }
+}
