@@ -20,7 +20,7 @@ npm start
 
 |URL    |Endpoint   |Type   |Description    |
 |-------|-----------|-------|---------------|
-|localhost:4115    |/address  |POST    | Retrun store in that address (test from Postman) |
+|localhost:4115    |/address  |POST    | Retrun store in that address (test from Postman) example **Key:** address, **value:** Stumpergasse 51, 1060 Vienna, **type:** x-www-form-urlencoded  |
 |http:localhost:4115    |/ |GET    | Renders UI in Browser 
 
 
